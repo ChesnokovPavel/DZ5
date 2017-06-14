@@ -1,0 +1,37 @@
+.body{
+	background: url(../img/world.svg) no-repeat;
+	background-color: #80cdc6;
+	background-size: contain;
+	border: 2px solid black;
+	height: 700px;
+	width: 1000px;
+	position: absolute;
+	top: 5%;
+	left: 21%;
+	background-position: bottom;
+}
+.clouds{
+	position: absolute;
+	top: -71px;
+	left: 361px;
+	height: 50%;
+	width: 50%;
+}
+.world{
+	position: absolute;
+	top: 200px;
+}
+.wooden-ship{
+	position: absolute;
+	top: 457px;
+	left: 85px;
+	height: 25%;
+	width: auto;
+}
+.water{
+	position: absolute;
+	top: 309px;
+	left: 0px;
+	height: 100%;
+	width: 100%;
+}

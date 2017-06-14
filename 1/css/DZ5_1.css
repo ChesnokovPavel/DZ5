@@ -1,0 +1,20 @@
+.body{
+	height: 600px;
+	width: 600px;
+	border: 2px solid;
+	margin: 30px auto;
+}
+div:not(.body){
+	width: 200px;
+	height: 200px;
+	float: left;
+}
+.red{
+	background: red;
+}
+.blue{
+	background: blue;
+}
+.yellow{
+	background: yellow;
+}

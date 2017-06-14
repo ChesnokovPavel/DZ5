@@ -1,0 +1,148 @@
+.body{
+	width: 758px;
+	background-color: #d1d1d1;
+	margin: 30px auto 0px auto;
+	border: 1px solid #d1d1d1;
+	font-size: 0;
+}
+.body::after{
+	content: '';
+	display: block;
+	clear: both;
+	margin: 0px 0px 56px 0px;
+}
+.img_header{
+	width: 640px;
+	height: 150px;
+	margin: 56px 0px 0px 57px;
+}
+.mine_text{
+	background: white;
+	width: 638px;
+	height: 1380px;
+	margin: 0px 0px 0px 57px;
+	border: 1px solid white;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	text-align: left;
+}
+h1{
+	margin: 57px 0px 0px 291px;
+}
+.first_p{
+	margin: 13px 0px 0px 48px;
+	line-height: 1.45;
+}
+.second_p{
+	margin: 23px 0px 0px 48px;
+	line-height: 1.45;
+}
+.third_p{
+	margin: 33px 0px 0px 48px;
+	line-height: 1.45;
+}
+.fourth_p{
+	margin: 23px 0px 0px 48px;
+	line-height: 1.45;
+}
+.bold{
+	font-weight: bold;
+}
+.img1_2{
+	height: 213px;
+	width: 255px;
+}
+.reklama1_2{
+	width: 255px;
+	margin: 31px 0px 0px 49px;
+	float: left;
+}
+.reklama1_2:nth-child(7){
+	margin: 31px 0px 0px 30px;
+}
+.text_reklama1_2{
+	height: 20px;
+	width: 270px;
+	margin: 11px 0px 0px 0px;
+	line-height: 1.45;
+}
+.batoni{
+	height: 41px;
+	width: 255px;
+	float: left;
+	margin: 65px 0px 0px 0px;
+	background: #cf5b4e;
+	border: 1px solid #cf5b4e;
+	border-radius: 6px;
+	color: white;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	font-weight: bold;
+}
+.img3_5{
+	height: 213px;
+	width: 160px;
+}
+.reklama3_5{
+	float: left;
+	width: 160px;
+	margin: 30px 0px 0px 49px;
+}
+.reklama3_5:nth-child(9){
+	margin: 30px 0px 0px 30px;
+}
+.reklama3_5:nth-child(10){
+	margin: 30px 0px 0px 30px;
+}
+.text_reklama3_5{
+	height: 20px;
+	width: 164px;
+	line-height: 1.45;
+	margin: 11px 0px 0px 0px;
+}
+.batonchiki{
+	height: 41px;
+	width: 160px;
+	float: left;
+	margin: 88px 0px 0px 0px;
+	background: #cf5b4e;
+	border: 1px solid #cf5b4e;
+	border-radius: 6px;
+	color: white;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	font-weight: bold;
+}
+.fifth_p{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	text-align: left;
+	margin: 29px 0px 0px 49px;
+	line-height: 1.45;
+	height: 20px;
+	width: 600px;
+	float: left;
+}
+.sixth_p{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	text-align: left;
+	margin: 36px 0px 0px 49px;
+	line-height: 1.45;
+	height: 20px;
+	width: 500px;
+	float: left;
+}
+.batonishe{
+	height: 41px;
+	width: 540px;
+	float: left;
+	margin: 80px 0px 0px 49px;
+	background: #cf5b4e;
+	border: 1px solid #cf5b4e;
+	border-radius: 6px;
+	color: white;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+}

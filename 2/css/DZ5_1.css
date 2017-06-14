@@ -1,0 +1,14 @@
+.w{
+	width: 200px;
+	height: 200px;
+	float: left;
+	background: red;
+	margin: 0px 0px 0px 10px;
+}
+.q{
+	background: blue;
+	width: 640px;
+}
+.e{
+	clear: both;
+}

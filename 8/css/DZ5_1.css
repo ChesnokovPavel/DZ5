@@ -1,0 +1,55 @@
+.body{
+	height: 600px;
+	width: 600px;
+	margin: 30px auto;
+	border: 2px solid;
+}
+.q1{
+	height: 140px;
+	width: 30px;
+	background-color: black;
+	position: absolute;
+	top: 32px;
+	left: 830px;
+}
+.q2{
+	height: 100px;
+	width: 0px;
+	border: 200px solid transparent;
+	border-bottom: 200px solid brown;
+	position: absolute;
+	top: -255px;
+	left: 752px;
+}
+.q3{
+	height: 332px;
+	width: 330px;
+	background-color: #ffd272;
+	position: absolute;
+	top: 245px;
+	left: 788px;
+}
+.q4{
+	height: 200px;
+	width: 100px;
+	background-color: brown;
+	position: absolute;
+	top: 377px;
+	left: 830px;
+}
+.q5{
+	height: 100px;
+	width: 100px;
+	background-color: blue;
+	position: absolute;
+	top: 377px;
+	left: 960px;
+}
+.q6{
+	height: 55px;
+	width: 600px;
+	background-color: green;
+	position: absolute;
+	top: 577px;
+	left: 652px;
+}
